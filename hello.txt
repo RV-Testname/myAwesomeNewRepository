@@ -3,3 +3,4 @@ the second line in hello.txt
 hello from the feature branch
 I really don't know what's happening
 This seems strange
+this is from the feature branch
